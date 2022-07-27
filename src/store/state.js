@@ -1,6 +1,6 @@
 export default {
-  longitude: '121.472644', // 经度
-  latitude: '31.231706', // 纬度
+  longitude: '', // 经度
+  latitude: '', // 纬度
   cartList: {}, // 加入购物车的商品列表
   shopDetail: null, // 商家详情信息
   userInfo: null, // 用户信息

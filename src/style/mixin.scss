@@ -1,12 +1,14 @@
+@use "sass:math";
+
 $bright: linear-gradient(to right, #29CAFF, #21C4FD);
 $blue: #0DABFF;
 
 // 移动端375px标准屏幕比例
-$ratio: 375 / 10;
+$ratio: math.div(375, 10);
 
 // px转换rem
 @function px2rem($px) {
-    @return $px / $ratio + rem;
+    @return math.div($px, $ratio) + rem;
 }
 
 // 一像素下边框
@@ -143,8 +145,8 @@ $ratio: 375 / 10;
 }
 
 //文字长度省略
-@mixin ellipse() {
+@mixin ellipse($type: ellipsis) {
     overflow: hidden;
     white-space: nowrap;
-    text-overflow: ellipsis;
+    text-overflow: $type;
 }

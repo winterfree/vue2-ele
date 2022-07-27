@@ -1,0 +1,544 @@
+{
+	"has_next": true,
+	"items": [{
+		"restaurant": {
+			"act_tag": 0,
+			"activities": [{
+				"attribute": "{28:{\"content\":\"2\",\"type\":1},45:{\"content\":\"4\",\"type\":1},60:{\"content\":\"7\",\"type\":1}}",
+				"background": {
+					"rgb_from": "#FFFFFF",
+					"rgb_to": "#FFFFFF"
+				},
+				"border": "#FFC9C1",
+				"description": "满28元减2元，满45元减4元，满60元减7元",
+				"icon_color": "f07373",
+				"icon_name": "减",
+				"id": 22994917539,
+				"is_exclusive_with_food_activity": true,
+				"name": "满减优惠",
+				"text_color": "#FF4B33",
+				"tips": "满28元减2元，满45元减4元，满60元减7元",
+				"type": 102
+			}, {
+				"attribute": "{0:{\"content\":\"0.98\",\"type\":2}}",
+				"background": {
+					"rgb_from": "#FFFFFF",
+					"rgb_to": "#FFFFFF"
+				},
+				"border": "#FFC9C1",
+				"description": "折扣商品98折起",
+				"icon_color": "3cc791",
+				"icon_name": "折",
+				"id": 23196190765,
+				"is_exclusive_with_food_activity": true,
+				"name": "折扣优惠",
+				"text_color": "#FF4B33",
+				"tips": "折扣商品98折起",
+				"type": 501
+			}, {
+				"attribute": "{0:{\"content\":\"0.1\",\"type\":4}}",
+				"background": {
+					"rgb_from": "#FFFFFF",
+					"rgb_to": "#FFFFFF"
+				},
+				"border": "#FFC9C1",
+				"description": "特价商品0.1元起",
+				"icon_color": "f1884f",
+				"icon_name": "特",
+				"id": 23372459309,
+				"is_exclusive_with_food_activity": true,
+				"name": "特价商品",
+				"text_color": "#FF4B33",
+				"tips": "特价商品0.1元起",
+				"type": 502
+			}],
+			"authentic_id": 337212685,
+			"brand_id": 960347,
+			"business_info": "{\"pickup_scheme\":\"https://h5.ele.me/shop/#id=E2380887912475636815\",\"ad_info\":{\"isAd\":\"false\"},\"recent_order_num_display\":\"月售183\"}",
+			"closing_count_down": 40771,
+			"delivery_fee_discount": 0,
+			"delivery_mode": {
+				"border": "",
+				"color": "2395FF",
+				"gradient": {
+					"rgb_from": "00a6ff",
+					"rgb_to": "00a6ff"
+				},
+				"icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+				"id": 1,
+				"is_solid": true,
+				"text": "蜂鸟专送",
+				"text_color": "FFFFFF"
+			},
+			"description": "董记抄手泡菜十年匠心，只为不将就的您！由于物价上涨，外卖价格包含物流费用，请各位新老顾客知悉。品质保证。",
+			"distance": 980,
+			"favored": false,
+			"flavors": [{
+				"id": 802,
+				"name": "馄饨抄手"
+			}],
+			"float_delivery_fee": 2.5,
+			"float_minimum_order_amount": 15,
+			"folding_restaurants": [],
+			"has_story": false,
+			"id": "E2380887912475636815",
+			"image_path": "a05e96dcf6514840b21489f5b5c7b905png",
+			"is_new": false,
+			"is_premium": false,
+			"is_star": false,
+			"is_stock_empty": 0,
+			"is_valid": 1,
+			"latitude": 28.874464,
+			"longitude": 105.436109,
+			"max_applied_quantity_per_order": -1,
+			"name": "董记抄手泡菜(伊顿店)",
+			"next_business_time": "明天 8:00",
+			"opening_hours": ["8:00/20:00"],
+			"order_lead_time": 30,
+			"out_of_range": false,
+			"piecewise_agent_fee": {
+				"description": "配送¥2.5",
+				"extra_fee": 0,
+				"is_extra": false,
+				"no_subsidy_fee": "",
+				"rules": [{
+					"fee": 2.5,
+					"price": 15
+				}],
+				"tips": "配送¥2.5"
+			},
+			"platform": 0,
+			"posters": [],
+			"promotion_info": "董记抄手泡菜十年匠心，只为不将就的您！由于物价上涨，外卖价格包含物流费用，请各位新老顾客知悉。品质保证。",
+			"rating": 4.5,
+			"rating_count": 67,
+			"recent_order_num": 183,
+			"recommend": {
+				"is_ad": false,
+				"reason": ""
+			},
+			"recommend_reasons": [{
+				"name": "配送飞快"
+			}],
+			"regular_customer_count": 0,
+			"scheme": "https://h5.ele.me/shop/#id=E2380887912475636815?o2o_extra_param=%7B%22rank_id%22%3A%2219bf1c0d3d9b47d5ba6dbfd3813b706a%22%7D",
+			"status": 1,
+			"support_tags": [{
+				"border": "dddddd",
+				"color": "666666",
+				"icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+				"text": "馄饨抄手",
+				"type": 1
+			}],
+			"supports": [{
+				"border": "dddddd",
+				"description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+				"icon_color": "666666",
+				"icon_name": "保",
+				"id": 7,
+				"name": "食无忧",
+				"text_color": "666666",
+				"two_characters_icon_name": "保险"
+			}],
+			"theme": {
+				"default_color": "2395ff",
+				"header_style": 3,
+				"hongbao_style": 0,
+				"price_color": "ff5339",
+				"third_tab_name": "商家",
+				"vanish_fields": []
+			},
+			"type": 0
+		}
+	}, {
+		"restaurant": {
+			"act_tag": 0,
+			"activities": [{
+				"attribute": "{0:{\"content\":\"5\",\"type\":4}}",
+				"background": {
+					"rgb_from": "#FFFFFF",
+					"rgb_to": "#FFFFFF"
+				},
+				"border": "#FFC9C1",
+				"description": "特价商品5元起",
+				"icon_color": "f1884f",
+				"icon_name": "特",
+				"id": 23592808379,
+				"is_exclusive_with_food_activity": true,
+				"name": "特价商品",
+				"text_color": "#FF4B33",
+				"tips": "特价商品5元起",
+				"type": 502
+			}],
+			"authentic_id": 1531329,
+			"bidding": "{\"core\":{\"next\":{\"probability\":0.026671163737773895,\"weight\":60,\"restaurantId\":1531329},\"come_from\":1,\"index\":4,\"target\":{\"probability\":0.026671163737773895,\"weight\":60,\"restaurantId\":1531329},\"extraInfo\":\"{\\\"cpxMap\\\":\\\"{\\\\\\\"1531329\\\\\\\":3}\\\",\\\"campaignIdMap\\\":\\\"{\\\\\\\"1531329\\\\\\\":1443177}\\\",\\\"snid\\\":\\\"o2oad100fda014d9e0b1f2130000D\\\",\\\"ab_bucket\\\":\\\"a\\\",\\\"upstream_tpp_buckets\\\":null,\\\"use_roi_adjust_cost\\\":\\\"1\\\",\\\"bidding\\\":\\\"{}\\\",\\\"rankType\\\":\\\"8\\\",\\\"upstream_ab_bucket\\\":null,\\\"adLogo\\\":\\\"{\\\\\\\"url\\\\\\\":\\\\\\\"https://cube.elemecdn.com/0/1d/49b90a483860967ed3c67dd27714epng.png\\\\\\\",\\\\\\\"position\\\\\\\":\\\\\\\"left-bottom\\\\\\\"}\\\",\\\"latitude\\\":\\\"28.8717\\\",\\\"orientMap\\\":\\\"{\\\\\\\"1531329\\\\\\\":-1}\\\",\\\"cityId\\\":\\\"0\\\",\\\"terminal\\\":\\\"unknown\\\",\\\"type\\\":\\\"1\\\",\\\"costUgspMap\\\":\\\"{}\\\",\\\"userId\\\":\\\"9426448\\\",\\\"pidPre\\\":\\\"o2o_102305_200003_100000\\\",\\\"tpp_buckets\\\":\\\"19616#0#190328#7_19616#3265#18129#480_19616#4180#19119#797_19616#3177#10054#351_19616#3988#18150#234\\\",\\\"rankId\\\":\\\"19bf1c0d3d9b47d5ba6dbfd3813b706a\\\",\\\"rankTime\\\":\\\"1602204028\\\",\\\"ab_scene\\\":\\\"rec_rest\\\",\\\"longitude\\\":\\\"105.442574\\\"}\"}}",
+			"brand_id": 5097,
+			"business_info": "{\"pickup_scheme\":\"https://h5.ele.me/shop/#id=E2297337374005289178\",\"ad_info\":{\"nextId\":\"1531329\",\"probability\":\"0.026671163737773895\",\"weight\":\"60\",\"pid\":\"o2o_102305_200003_100004\",\"etype\":\"1\",\"adInfo\":\"{\\\"cpxMap\\\":\\\"{\\\\\\\"1531329\\\\\\\":3}\\\",\\\"campaignIdMap\\\":\\\"{\\\\\\\"1531329\\\\\\\":1443177}\\\",\\\"snid\\\":\\\"o2oad100fda014d9e0b1f2130000D\\\",\\\"ab_bucket\\\":\\\"a\\\",\\\"upstream_tpp_buckets\\\":null,\\\"use_roi_adjust_cost\\\":\\\"1\\\",\\\"bidding\\\":\\\"{}\\\",\\\"rankType\\\":\\\"8\\\",\\\"upstream_ab_bucket\\\":null,\\\"adLogo\\\":\\\"{\\\\\\\"url\\\\\\\":\\\\\\\"https://cube.elemecdn.com/0/1d/49b90a483860967ed3c67dd27714epng.png\\\\\\\",\\\\\\\"position\\\\\\\":\\\\\\\"left-bottom\\\\\\\"}\\\",\\\"latitude\\\":\\\"28.8717\\\",\\\"orientMap\\\":\\\"{\\\\\\\"1531329\\\\\\\":-1}\\\",\\\"cityId\\\":\\\"0\\\",\\\"terminal\\\":\\\"unknown\\\",\\\"type\\\":\\\"1\\\",\\\"costUgspMap\\\":\\\"{}\\\",\\\"userId\\\":\\\"9426448\\\",\\\"pidPre\\\":\\\"o2o_102305_200003_100000\\\",\\\"tpp_buckets\\\":\\\"19616#0#190328#7_19616#3265#18129#480_19616#4180#19119#797_19616#3177#10054#351_19616#3988#18150#234\\\",\\\"rankId\\\":\\\"19bf1c0d3d9b47d5ba6dbfd3813b706a\\\",\\\"rankTime\\\":\\\"1602204028\\\",\\\"ab_scene\\\":\\\"rec_rest\\\",\\\"longitude\\\":\\\"105.442574\\\"}\",\"isAd\":\"true\",\"nextProbability\":\"0.026671163737773895\",\"expo\":\"mtop.o2o.ad.exposure.get/1.0/?snid=o2oad100fda014d9e0b1f2130000D&cost=D3C27F499CF1DD50&pt=102301009&shid=8EB7659F846A8913&utype=0&nid=&cnid=1443177&cpx=3&p=%7B%22store_id%22%3A%22D35F054EAF60BA003EAF9B7544FCEE39%22%2C%22ab_bucket%22%3A%22a%22%2C%22adgroup_id%22%3A%221477570%22%2C%22use_roi_adjust_cost%22%3A%221%22%2C%22use_roi_adjust%22%3A%221%22%2C%22cpx%22%3A%223%22%2C%22terminal%22%3A%22unknown%22%2C%22type%22%3A%221%22%2C%22scene%22%3A%220_1_00_00032%22%2C%22tpp_buckets%22%3A%2219616%230%23190328%237_19616%233265%2318129%23480_19616%234180%2319119%23797_19616%233177%2310054%23351_19616%233988%2318150%23234%22%2C%22cost_v2%22%3A%226000%22%2C%22rankId%22%3A%2219bf1c0d3d9b47d5ba6dbfd3813b706a%22%2C%22orientDimension%22%3A%22%22%2C%22ab_scene%22%3A%22rec_rest%22%2C%22orientType%22%3A%22-1%22%2C%22city_id%22%3A%220%22%7D&uid=9426448&bid=D3C27F499CF1DD50&aid=68BCEF46F062CD08&cid=&ts=1602204027934&pid=o2o_102305_200003_100004\",\"targetUrlParams\":\"{\\\"etype\\\":\\\"1\\\",\\\"o2o\\\":\\\"mtop.life.ad.click.get/1.0/?snid=o2oad100fda014d9e0b1f2130000D&cost=D3C27F499CF1DD50&pt=102301009&shid=8EB7659F846A8913&utype=0&nid=&cnid=1443177&cpx=3&p=%7B%22store_id%22%3A%22D35F054EAF60BA003EAF9B7544FCEE39%22%2C%22cpc_cost_plus_extra_amount_switch%22%3A%221%22%2C%22ab_bucket%22%3A%22a%22%2C%22adgroup_id%22%3A%221477570%22%2C%22use_roi_adjust_cost%22%3A%221%22%2C%22use_roi_adjust%22%3A%221%22%2C%22cpx%22%3A%223%22%2C%22terminal%22%3A%22unknown%22%2C%22type%22%3A%221%22%2C%22scene%22%3A%220_1_00_00032%22%2C%22tpp_buckets%22%3A%2219616%230%23190328%237_19616%233265%2318129%23480_19616%234180%2319119%23797_19616%233177%2310054%23351_19616%233988%2318150%23234%22%2C%22cost_v2%22%3A%226000%22%2C%22rankId%22%3A%2219bf1c0d3d9b47d5ba6dbfd3813b706a%22%2C%22orientDimension%22%3A%22%22%2C%22ab_scene%22%3A%22rec_rest%22%2C%22orientType%22%3A%22-1%22%2C%22city_id%22%3A%220%22%7D&uid=9426448&bid=D3C27F499CF1DD50&aid=68BCEF46F062CD08&cid=&ts=1602204027934&pid=o2o_102305_200003_100004\\\",\\\"epid\\\":\\\"o2o_102305_200003_100004\\\"}\",\"nextWeight\":\"60\"},\"recent_order_num_display\":\"月售594\"}",
+			"closing_count_down": 5671,
+			"delivery_fee_discount": 0,
+			"description": "麦当劳（泸州天益餐厅）",
+			"distance": 1039,
+			"favored": false,
+			"flavors": [{
+				"id": 212,
+				"name": "汉堡薯条"
+			}, {
+				"id": 234,
+				"name": "炸鸡炸串"
+			}],
+			"float_delivery_fee": 5,
+			"float_minimum_order_amount": 25,
+			"folding_restaurants": [],
+			"has_story": false,
+			"id": "E2297337374005289178",
+			"image_path": "4D4959928E364440886845795DF12823png",
+			"is_new": false,
+			"is_premium": true,
+			"is_star": false,
+			"is_stock_empty": 0,
+			"is_valid": 1,
+			"latitude": 28.87524,
+			"longitude": 105.43611,
+			"max_applied_quantity_per_order": -1,
+			"name": "麦当劳麦乐送（泸州天益广场店）",
+			"next_business_time": "10:30",
+			"opening_hours": ["8:00/10:15", "10:30/4:45"],
+			"order_lead_time": 28,
+			"out_of_range": false,
+			"piecewise_agent_fee": {
+				"description": "配送¥5",
+				"extra_fee": 0,
+				"is_extra": false,
+				"no_subsidy_fee": "",
+				"rules": [{
+					"fee": 5,
+					"price": 25
+				}],
+				"tips": "配送¥5"
+			},
+			"platform": 0,
+			"posters": [],
+			"promotion_info": "麦当劳新会员享0元辣翅一对，更有会员专享可购外送费包月卡，每天免2次外送费",
+			"rating": 4.7,
+			"rating_count": 2081,
+			"recent_order_num": 594,
+			"recommend": {
+				"image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+				"is_ad": true,
+				"reason": "",
+				"track": "{\"rankType\":\"8\"}"
+			},
+			"recommend_reasons": [{
+				"name": "回头客多"
+			}, {
+				"name": "配送飞快"
+			}],
+			"regular_customer_count": 0,
+			"scheme": "https://h5.ele.me/shop/#id=E2297337374005289178?o2o_extra_param=%7B%22rank_id%22%3A%2219bf1c0d3d9b47d5ba6dbfd3813b706a%22%7D&epid=o2o_102305_200003_100004&etype=1&o2o=mtop.life.ad.click.get%2F1.0%2F%3Fsnid%3Do2oad100fda014d9e0b1f2130000D%26cost%3DD3C27F499CF1DD50%26pt%3D102301009%26shid%3D8EB7659F846A8913%26utype%3D0%26nid%3D%26cnid%3D1443177%26cpx%3D3%26p%3D%257B%2522store_id%2522%253A%2522D35F054EAF60BA003EAF9B7544FCEE39%2522%252C%2522cpc_cost_plus_extra_amount_switch%2522%253A%25221%2522%252C%2522ab_bucket%2522%253A%2522a%2522%252C%2522adgroup_id%2522%253A%25221477570%2522%252C%2522use_roi_adjust_cost%2522%253A%25221%2522%252C%2522use_roi_adjust%2522%253A%25221%2522%252C%2522cpx%2522%253A%25223%2522%252C%2522terminal%2522%253A%2522unknown%2522%252C%2522type%2522%253A%25221%2522%252C%2522scene%2522%253A%25220_1_00_00032%2522%252C%2522tpp_buckets%2522%253A%252219616%25230%2523190328%25237_19616%25233265%252318129%2523480_19616%25234180%252319119%2523797_19616%25233177%252310054%2523351_19616%25233988%252318150%2523234%2522%252C%2522cost_v2%2522%253A%25226000%2522%252C%2522rankId%2522%253A%252219bf1c0d3d9b47d5ba6dbfd3813b706a%2522%252C%2522orientDimension%2522%253A%2522%2522%252C%2522ab_scene%2522%253A%2522rec_rest%2522%252C%2522orientType%2522%253A%2522-1%2522%252C%2522city_id%2522%253A%25220%2522%257D%26uid%3D9426448%26bid%3DD3C27F499CF1DD50%26aid%3D68BCEF46F062CD08%26cid%3D%26ts%3D1602204027934%26pid%3Do2o_102305_200003_100004",
+			"status": 1,
+			"support_tags": [{
+				"border": "dddddd",
+				"color": "666666",
+				"icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+				"text": "汉堡薯条",
+				"type": 1
+			}],
+			"supports": [],
+			"target_tag_path": "d53fc0cb4dc67973038cbc591938a1b6png",
+			"theme": {
+				"default_color": "",
+				"header_style": 3,
+				"hongbao_style": 0,
+				"logo_sub": "c46c5c716c51a4447be2d316b438c043png",
+				"price_color": "ff5339",
+				"third_tab_name": "商家",
+				"vanish_fields": []
+			},
+			"type": 0
+		}
+	}, {
+		"restaurant": {
+			"act_tag": 0,
+			"activities": [{
+				"attribute": "{20:{\"content\":\"4.0\",\"type\":1},30:{\"content\":\"7.0\",\"type\":1},40:{\"content\":\"11.0\",\"type\":1}}",
+				"background": {
+					"rgb_from": "#FFFFFF",
+					"rgb_to": "#FFFFFF"
+				},
+				"border": "#FFC9C1",
+				"description": "满20元减4元，满30元减7元，满40元减11元",
+				"icon_color": "f07373",
+				"icon_name": "减",
+				"id": 22268241579,
+				"is_exclusive_with_food_activity": true,
+				"name": "满减优惠",
+				"text_color": "#FF4B33",
+				"tips": "满20元减4元，满30元减7元，满40元减11元",
+				"type": 102
+			}],
+			"authentic_id": 171301918,
+			"business_info": "{\"pickup_scheme\":\"https://h5.ele.me/shop/#id=E17266374124281547463\",\"ad_info\":{\"isAd\":\"false\"},\"recent_order_num_display\":\"月售52\"}",
+			"closing_count_down": 0,
+			"delivery_fee_discount": 0,
+			"delivery_mode": {
+				"border": "",
+				"color": "2395FF",
+				"gradient": {
+					"rgb_from": "00a6ff",
+					"rgb_to": "00a6ff"
+				},
+				"icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+				"id": 1,
+				"is_solid": true,
+				"text": "蜂鸟专送",
+				"text_color": "FFFFFF"
+			},
+			"description": "感谢各位小主长久以来的关照，如您对本店的服务、产品质量有任何意见或建议的，欢迎联系监督电话哦，我们一定尽心为您服务。谢大家的支持和光顾 ฅ( ̳• •̫ • ̳) 喵",
+			"distance": 1599,
+			"favored": false,
+			"flavors": [{
+				"id": 209,
+				"name": "盖浇饭"
+			}, {
+				"id": 221,
+				"name": "川湘菜"
+			}],
+			"float_delivery_fee": 2,
+			"float_minimum_order_amount": 15,
+			"folding_restaurants": [],
+			"has_story": false,
+			"id": "E17266374124281547463",
+			"image_path": "6d21bd003d49c8e5b57d69879e2283d6jpeg",
+			"is_new": false,
+			"is_premium": false,
+			"is_star": false,
+			"is_stock_empty": 0,
+			"is_valid": 1,
+			"latitude": 28.880705,
+			"longitude": 105.43693,
+			"max_applied_quantity_per_order": -1,
+			"name": "古蔺豆花特色家常菜",
+			"next_business_time": "9:20",
+			"opening_hours": ["9:20/22:00"],
+			"order_lead_time": 30,
+			"out_of_range": false,
+			"piecewise_agent_fee": {
+				"description": "配送¥2",
+				"extra_fee": 0,
+				"is_extra": false,
+				"no_subsidy_fee": "",
+				"rules": [{
+					"fee": 2,
+					"price": 15
+				}],
+				"tips": "配送¥2"
+			},
+			"platform": 0,
+			"posters": [],
+			"promotion_info": "感谢各位小主长久以来的关照，如您对本店的服务、产品质量有任何意见或建议的，欢迎联系监督电话哦，我们一定尽心为您服务。谢大家的支持和光顾 ฅ( ̳• •̫ • ̳) 喵\n",
+			"rating": 3.9,
+			"rating_count": 444,
+			"recent_order_num": 52,
+			"recommend": {
+				"is_ad": false,
+				"reason": ""
+			},
+			"recommend_reasons": [{
+				"name": "配送飞快"
+			}],
+			"regular_customer_count": 0,
+			"scheme": "https://h5.ele.me/shop/#id=E17266374124281547463?o2o_extra_param=%7B%22rank_id%22%3A%2219bf1c0d3d9b47d5ba6dbfd3813b706a%22%7D",
+			"status": 5,
+			"support_tags": [{
+				"border": "dddddd",
+				"color": "666666",
+				"icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+				"text": "盖浇饭",
+				"type": 1
+			}],
+			"supports": [{
+				"border": "dddddd",
+				"description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+				"icon_color": "666666",
+				"icon_name": "保",
+				"id": 7,
+				"name": "食无忧",
+				"text_color": "666666",
+				"two_characters_icon_name": "保险"
+			}, {
+				"border": "dddddd",
+				"description": "退款在订单配送前可免费享受",
+				"icon_color": "666666",
+				"icon_name": "退",
+				"id": 14,
+				"name": "极速退",
+				"text_color": "666666",
+				"two_characters_icon_name": ""
+			}],
+			"theme": {
+				"default_color": "2395ff",
+				"header_style": 3,
+				"hongbao_style": 0,
+				"price_color": "ff5339",
+				"third_tab_name": "商家",
+				"vanish_fields": []
+			},
+			"type": 0
+		}
+	}, {
+		"restaurant": {
+			"act_tag": 0,
+			"activities": [{
+				"attribute": "{22:{\"content\":\"1.0\",\"type\":1},45:{\"content\":\"2.0\",\"type\":1},88:{\"content\":\"3.0\",\"type\":1}}",
+				"background": {
+					"rgb_from": "#FFFFFF",
+					"rgb_to": "#FFFFFF"
+				},
+				"border": "#FFC9C1",
+				"description": "满22元减1元，满45元减2元，满88元减3元",
+				"icon_color": "f07373",
+				"icon_name": "减",
+				"id": 23436327061,
+				"is_exclusive_with_food_activity": true,
+				"name": "满减优惠",
+				"text_color": "#FF4B33",
+				"tips": "满22元减1元，满45元减2元，满88元减3元",
+				"type": 102
+			}, {
+				"attribute": "{38:{\"content\":\"{\\\"name\\\":\\\"饮料\\\",\\\"unit\\\":\\\"份\\\",\\\"quantity\\\":1,\\\"price\\\":0.0}\",\"type\":3}}",
+				"background": {
+					"rgb_from": "#FFFFFF",
+					"rgb_to": "#FFFFFF"
+				},
+				"border": "#FFC9C1",
+				"description": "满38元赠送饮料1份",
+				"icon_color": "3cc791",
+				"icon_name": "赠",
+				"id": 23538290797,
+				"is_exclusive_with_food_activity": true,
+				"name": "赠品优惠",
+				"text_color": "#FF4B33",
+				"tips": "满38元赠送饮料1份",
+				"type": 106
+			}, {
+				"attribute": "{0:{\"content\":\"0.68\",\"type\":2}}",
+				"background": {
+					"rgb_from": "#FFFFFF",
+					"rgb_to": "#FFFFFF"
+				},
+				"border": "#FFC9C1",
+				"description": "折扣商品68折起",
+				"icon_color": "3cc791",
+				"icon_name": "折",
+				"id": 23002163122,
+				"is_exclusive_with_food_activity": true,
+				"name": "折扣优惠",
+				"text_color": "#FF4B33",
+				"tips": "折扣商品68折起",
+				"type": 501
+			}],
+			"authentic_id": 150975393,
+			"business_info": "{\"pickup_scheme\":\"https://h5.ele.me/shop/#id=E17461622531836536218\",\"ad_info\":{\"isAd\":\"false\"},\"recent_order_num_display\":\"月售39\"}",
+			"closing_count_down": 20071,
+			"delivery_fee_discount": 0,
+			"delivery_mode": {
+				"border": "",
+				"color": "2395FF",
+				"gradient": {
+					"rgb_from": "00a6ff",
+					"rgb_to": "00a6ff"
+				},
+				"icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+				"id": 1,
+				"is_solid": true,
+				"text": "蜂鸟专送",
+				"text_color": "FFFFFF"
+			},
+			"description": "足不出户，尽享天下美食，点外卖，上饿了么",
+			"distance": 1300,
+			"favored": false,
+			"flavors": [{
+				"id": 221,
+				"name": "川湘菜"
+			}],
+			"float_delivery_fee": 2,
+			"float_minimum_order_amount": 15,
+			"folding_restaurants": [],
+			"has_story": false,
+			"id": "E17461622531836536218",
+			"image_path": "df2fdf3d0cf4933ec42104cb1cbf851dpng",
+			"is_new": false,
+			"is_premium": false,
+			"is_star": false,
+			"is_stock_empty": 0,
+			"is_valid": 1,
+			"latitude": 28.876793,
+			"longitude": 105.45014,
+			"max_applied_quantity_per_order": -1,
+			"name": "酒城餐馆",
+			"next_business_time": "16:45",
+			"opening_hours": ["7:00/14:15", "16:45/19:45"],
+			"order_lead_time": 30,
+			"out_of_range": false,
+			"piecewise_agent_fee": {
+				"description": "配送¥2",
+				"extra_fee": 0,
+				"is_extra": false,
+				"no_subsidy_fee": "",
+				"rules": [{
+					"fee": 2,
+					"price": 15
+				}],
+				"tips": "配送¥2"
+			},
+			"platform": 0,
+			"posters": [],
+			"promotion_info": "\n",
+			"rating": 4.3,
+			"rating_count": 2159,
+			"recent_order_num": 39,
+			"recommend": {
+				"is_ad": false,
+				"reason": ""
+			},
+			"recommend_reasons": [{
+				"name": "配送飞快"
+			}],
+			"regular_customer_count": 0,
+			"scheme": "https://h5.ele.me/shop/#id=E17461622531836536218?o2o_extra_param=%7B%22rank_id%22%3A%2219bf1c0d3d9b47d5ba6dbfd3813b706a%22%7D",
+			"status": 1,
+			"support_tags": [{
+				"border": "dddddd",
+				"color": "666666",
+				"icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+				"text": "川湘菜",
+				"type": 1
+			}],
+			"supports": [{
+				"border": "dddddd",
+				"description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+				"icon_color": "666666",
+				"icon_name": "保",
+				"id": 7,
+				"name": "食无忧",
+				"text_color": "666666",
+				"two_characters_icon_name": "保险"
+			}],
+			"theme": {
+				"default_color": "2395ff",
+				"header_style": 3,
+				"hongbao_style": 0,
+				"price_color": "ff5339",
+				"third_tab_name": "商家",
+				"vanish_fields": []
+			},
+			"type": 0
+		}
+	}],
+	"meta": {
+		"rankId": "19bf1c0d3d9b47d5ba6dbfd3813b706a",
+		"rankType": {
+			"1531329": "8"
+		}
+	}
+}

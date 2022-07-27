@@ -51,6 +51,16 @@ export const searchplace = (cityid, value) => requests(`${BASE_URL}/v1/pois`, {
 export const reqAddress = geohash => requests(`${BASE_URL}/v2/pois/${geohash}`)
 
 /**
+ * 获取msite页面食品分类列表
+ */
+
+export const msiteFoodTypes = geohash => requests(`${BASE_URL}/v2/index_entry`, {
+  geohash,
+  group_type: '1',
+  'flags[]': 'F'
+})
+
+/**
  * 获取shopList页面的 category 种类列表
  */
 

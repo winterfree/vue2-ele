@@ -32,7 +32,6 @@ export default {
     const latitude = geohash.split(',')[0]
     const longitude = geohash.split(',')[1]
     commit(RECORD_ADDRESS, { latitude, longitude })
-    console.log(1)
   },
   // 根据经纬度获取地址
   async getAddress ({ commit, state }) {
